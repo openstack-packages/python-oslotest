@@ -1,0 +1,8 @@
+Code-Review-1: Haïkel Guémar <haikel.guemar@gmail.com>
+Code-Review+2: Alan Pevec <alan.pevec@redhat.com>
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Submitted-by: Alan Pevec <alan.pevec@redhat.com>
+Submitted-at: Thu, 01 Oct 2015 20:32:46 +0200
+Reviewed-on: https://review.gerrithub.io/246181
+Project: openstack-packages/python-oslotest
+Branch: refs/heads/rpm-master
